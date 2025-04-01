@@ -1,9 +1,8 @@
 # Opening File Handles and reading data from files
 # What happends if the file does not exist?
 # You can get the following file with wget
-# sudo wget -O robotCommand.txt https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Code/master/robot1Command.txt
-# sudo wget -O matrix.txt https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Code/master/matrix.txt
-# sudo wget -O mbox-short.txt https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Code/master/mbox-short-short.txt
+# sudo wget -O text-flie-matrix.txt https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/text-file-matrix.txt
+# sudo wget -O text-file-mail-very-short.txt https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/text-file-mail-very-short.txt
 
 print('''
 This Lab is about opening a file handle, and 
