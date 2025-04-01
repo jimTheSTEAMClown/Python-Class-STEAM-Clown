@@ -30,4 +30,8 @@ My [STEAM Clown - Mechatronics Engineering Python Google Site](https://sites.goo
 4) Lab 4 - [Opening A File, Reading Each Line, String Strip Methods](https://github.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/blob/main/Ch9-Read-Write-Files-Lab%234--file-rstrip.py)
 5) Lab 5 - [Opening A File, Reading The Whole File, Find 'Blue Pill'](https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/Ch9-Read-Write-Files-Lab%235--Whole-File-Blue-Pill.py)
 6) Lab 6 - [Opening A File, Reading The Whole File, Finding Stuff](https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/Ch9-Read-Write-Files-Lab%236--Reading-Files-FINDING-STUFF.py)
-7) Lab 7 - [Opening A File, Reading The Whole File, Finding & Listing Email](https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/Ch9-Read-Write-Files-Lab%237--Reading-Files-FINDING-EMAILS.py) 
+7) Lab 7 - [Opening A File, Reading The Whole File, Finding & Listing Email](https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/Ch9-Read-Write-Files-Lab%237--Reading-Files-FINDING-EMAILS.py)
+
+## Chapter 10 - ??
+
+## Chapter 11 - ??
