@@ -18,17 +18,17 @@ Challenge
 
 What happends if the file does not exist? 
 - Try opening a file that does not exist... 
-Like "matrix2.txt"
+Like "text-file-matrix2.txt"
 
 Can you open a diffrent file? 
-- Try opening the file "mbox-short.txt"
+- Try opening the file "text-file-very-short.txt"
 ---
 ''')
 # -------------------------------------------------
 print('''Answer to Challenge
 -------------------------------------------------''')
 # Try opening a file that does not exist... Like "matrix2.txt"
-xfile = open('matrix.txt')
+xfile = open('text-file-matrix.txt')
 print(xfile)
 print('''
 -------------------------------------------------''')
