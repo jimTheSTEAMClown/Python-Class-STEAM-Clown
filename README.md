@@ -1,4 +1,4 @@
-# Python - Mechatronics Engineering Class - Python Labs & Files - STEAM-Clown
+# Python - Mechatronics Engineering Class - Python Coding Labs & Files - STEAM-Clown
 This is my "New" repository of my STEAM Clown - Mechatronics Engineering Python Coding Class.  This is where I'm going to move all my class labs and coding examples.
 
 Much of the class Lectures, Examples and Labs are modification of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc) by Al Sweigart and [Python for Everyone](https://www.py4e.com/) by Chuck Severance
