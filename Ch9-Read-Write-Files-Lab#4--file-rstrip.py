@@ -13,7 +13,7 @@ Challenge #1
 Hint: Use a String Method that will "strip" a character. 
 - https://www.w3schools.com/python/python_strings_methods.asp
 
-#2 - Edit the code below to open the mbox-short.txt file
+#2 - Edit the code below to open the text-file-mail-very-short.txt file
 ---
 ''')
 # -------------------------------------------------
