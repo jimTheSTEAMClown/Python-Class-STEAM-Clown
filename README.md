@@ -9,6 +9,20 @@ My [STEAM Clown - Mechatronics Engineering Python Google Site](https://sites.goo
 
 ## Chapter 1 - ??
 
+## Chapter 2 - ??
+
+## Chapter 3 - ??
+
+## Chapter 4 - ??
+
+## Chapter 5 - ??
+
+## Chapter 6 - ??
+
+## Chapter 7 - ??
+
+## Chapter 8 - ??
+
 ## Chapter 9 - Reading & Writing Files
 1) Lab 1 - [Parts of a file handle - Reading A File & Understanding The File Handle](https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/Ch9-Read-Write-Files-Lab%231--File-Handle.py)
 2) Lab 2 - [Opening A file, Reading Each Line & What happends if the file does not exist?](https://raw.githubusercontent.com/jimTheSTEAMClown/Python-Class-STEAM-Clown/refs/heads/main/Ch9-Read-Write-Files-Lab%232--File-Name.py)
